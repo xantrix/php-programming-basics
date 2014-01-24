@@ -7,4 +7,4 @@ $ùàèì = 'hi';
 ${00} = "hi";
 //$00 = "hi"; //invalid because we can\'t start variable with numbers
 
-echo "see in debug";
+echo "See in debug";
